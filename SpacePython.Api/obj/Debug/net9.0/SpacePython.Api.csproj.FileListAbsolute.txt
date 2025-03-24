@@ -8,6 +8,8 @@
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/bin/Debug/net9.0/SpacePython.Api.pdb
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/mac254/repos/Space-Python-api/SpacePython.Api/bin/Debug/net9.0/SpacePython.Domain.dll
+/Users/mac254/repos/Space-Python-api/SpacePython.Api/bin/Debug/net9.0/SpacePython.Domain.pdb
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.csproj.AssemblyReference.cache
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.AssemblyInfoInputs.cache
@@ -15,6 +17,7 @@
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.csproj.CoreCompileInputs.cache
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.MvcApplicationPartsAssemblyInfo.cs
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.sourcelink.json
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/scopedcss/bundle/SpacePython.Api.styles.css
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/staticwebassets.build.json
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/staticwebassets.development.json
@@ -31,5 +34,3 @@
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.pdb
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.genruntimeconfig.cache
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/ref/SpacePython.Api.dll
-/Users/mac254/repos/Space-Python-api/SpacePython.Api/bin/Debug/net9.0/SpacePython.Domain.dll
-/Users/mac254/repos/Space-Python-api/SpacePython.Api/bin/Debug/net9.0/SpacePython.Domain.pdb
