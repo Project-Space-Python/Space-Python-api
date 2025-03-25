@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SpacePython.Domain\SpacePython.Domain.csproj" />
+    <ProjectReference Include="..\SpacePython.Data\SpacePython.Data.csproj" />
   </ItemGroup>
 
 
