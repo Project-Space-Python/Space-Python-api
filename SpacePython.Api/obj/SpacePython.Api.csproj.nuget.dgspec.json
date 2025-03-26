@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\4630LabProject\\space-python-web\\spacepython.api\\SpacePython.Api.csproj": {}
+    "E:\\4630LabProject\\space-python-web\\SpacePython.api\\SpacePython.Api.csproj": {}
   },
   "projects": {
-    "E:\\4630LabProject\\space-python-web\\spacepython.api\\SpacePython.Api.csproj": {
+    "E:\\4630LabProject\\space-python-web\\SpacePython.api\\SpacePython.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\4630LabProject\\space-python-web\\spacepython.api\\SpacePython.Api.csproj",
+        "projectUniqueName": "E:\\4630LabProject\\space-python-web\\SpacePython.api\\SpacePython.Api.csproj",
         "projectName": "SpacePython.Api",
-        "projectPath": "E:\\4630LabProject\\space-python-web\\spacepython.api\\SpacePython.Api.csproj",
+        "projectPath": "E:\\4630LabProject\\space-python-web\\SpacePython.api\\SpacePython.Api.csproj",
         "packagesPath": "C:\\Users\\dcowe\\.nuget\\packages\\",
-        "outputPath": "E:\\4630LabProject\\space-python-web\\spacepython.api\\obj\\",
+        "outputPath": "E:\\4630LabProject\\space-python-web\\SpacePython.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dcowe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,7 +55,27 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.3, )"
             }

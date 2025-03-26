@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FBooIdjWDIM=",
+  "dgSpecHash": "NCKCv9ECpFU=",
   "success": true,
-  "projectFilePath": "E:\\4630LabProject\\space-python-web\\spacepython.data\\SpacePython.Data.csproj",
+  "projectFilePath": "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcowe\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.3\\microsoft.data.sqlite.core.9.0.3.nupkg.sha512",
     "C:\\Users\\dcowe\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\4630LabProject\\space-python-web\\spacepython.data\\SpacePython.Data.csproj": {}
+    "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj": {}
   },
   "projects": {
-    "E:\\4630LabProject\\space-python-web\\spacepython.data\\SpacePython.Data.csproj": {
+    "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\4630LabProject\\space-python-web\\spacepython.data\\SpacePython.Data.csproj",
+        "projectUniqueName": "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj",
         "projectName": "SpacePython.Data",
-        "projectPath": "E:\\4630LabProject\\space-python-web\\spacepython.data\\SpacePython.Data.csproj",
+        "projectPath": "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj",
         "packagesPath": "C:\\Users\\dcowe\\.nuget\\packages\\",
-        "outputPath": "E:\\4630LabProject\\space-python-web\\spacepython.data\\obj\\",
+        "outputPath": "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dcowe\\AppData\\Roaming\\NuGet\\NuGet.Config"

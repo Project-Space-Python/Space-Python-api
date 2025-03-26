@@ -1,13 +1,20 @@
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using SpacePython.Domain.Catalog;
+using SpacePython.Data;
 
 namespace SpacePython.Api.Controllers
 {
     [ApiController]
-    [Route("catalog")]
+    [Route("/catalog")]
     public class CatalogController : ControllerBase
     {
+        private readonly StoreContext _db;
+
+        public CatalogController(StoreContext db)
+        {
+            _db = db;
+        }
         public CatalogController()
         {
             Console.WriteLine("CatalogController initialized");
@@ -15,7 +22,7 @@ namespace SpacePython.Api.Controllers
         [HttpGet]
         public IActionResult GetItems()
         {
-            return Ok("hello world.");
+            return Ok(_db.Items);
         }
         [HttpGet("{id:int}")]
 public IActionResult GetItem(int id)
@@ -23,7 +30,7 @@ public IActionResult GetItem(int id)
     var item = new Item("Shirt", "Ohio State shirt.", "Nike", 29.99m);
     item.Id = id;
 
-    return Ok(item);
+    return Ok(_db.Items);
 }
 [HttpPost]
 public IActionResult Post(Item item){
@@ -44,6 +51,13 @@ public IActionResult Put(int id, Item item){
 [HttpDelete("{id:int}")]
 public IActionResult Delete(int id){
     return NoContent();
+}
+public DbSet<Item> Items {get; set; }
+
+protected override void OnModelCreating(ModelBuilder builder)
+{
+    base.OnModelCreating(builder);
+    DbInitializer.Initialize(builder);
 }
     }
     
