@@ -25,40 +25,63 @@ namespace SpacePython.Api.Controllers
             return Ok(_db.Items);
         }
         [HttpGet("{id:int}")]
+[HttpGet("{id:int}")]
 public IActionResult GetItem(int id)
 {
-    var item = new Item("Shirt", "Ohio State shirt.", "Nike", 29.99m);
-    item.Id = id;
-
-    return Ok(_db.Items);
+    var item = _db.Items.Find(id);
+    if (item = null){
+        return NotFound();
+    }
+    return Ok();
 }
 [HttpPost]
 public IActionResult Post(Item item){
+    _db.Items.Add(item);
+    _db.SaveChanges();
     return Created("/catalog/42", item);
 }
 [HttpPost("{id:int}/ratings")]
 public IActionResult PostRating(int id, [FromBody] UserRating rating){
-    var item = new Item("Shirt", "Ohio State shirt.", "Nike", 29.99m);
-    item.Id = id;
+
+    var item = _db.Items.Find();
+    if (item = null){
+        return NotFound();
+    }
     item.AddRating(rating);
+    _db.SaveChanges();
 
     return Ok(item);
 }
 [HttpPut("{id:int}")]
-public IActionResult Put(int id, Item item){
+public IActionResult PutItem(int id, Item item){
+    
+    if (id != item.ID) {
+        return BadRequest();
+    }
+    if (_db.Items.Find(id) = null){
+        return NotFound();
+    }
+    _db.Entry(item).State = EntityState.Modified;
+    _db.SaveChanges();
+    
     return NoContent();
 }
 [HttpDelete("{id:int}")]
-public IActionResult Delete(int id){
-    return NoContent();
+public IActionResult DeleteItem(int id) {
+   
+   var item = _db.Items.Find(id);
+   if (item = null) {
+    return NotFound();
+   }
+
+   _db.Items.Remove(item);
+   _db.SaveChanges();
+   
+    return Ok();
 }
 public DbSet<Item> Items {get; set; }
 
-protected override void OnModelCreating(ModelBuilder builder)
-{
-    base.OnModelCreating(builder);
-    DbInitializer.Initialize(builder);
-}
+
     }
     
 }
