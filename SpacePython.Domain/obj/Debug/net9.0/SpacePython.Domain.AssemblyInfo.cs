@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpacePython.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af093a2219e0d77b84da40ae716900c584c5c46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85554a08fb5f76324f59f2b8bd3731fa8235290e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpacePython.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpacePython.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
