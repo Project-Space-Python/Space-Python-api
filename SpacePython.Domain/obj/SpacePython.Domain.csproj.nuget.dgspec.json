@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac254/repos/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj": {}
+    "E:\\4630LabProject\\Space-python-web\\SpacePython.Domain\\SpacePython.Domain.csproj": {}
   },
   "projects": {
-    "/Users/mac254/repos/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj": {
+    "E:\\4630LabProject\\Space-python-web\\SpacePython.Domain\\SpacePython.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac254/repos/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj",
+        "projectUniqueName": "E:\\4630LabProject\\Space-python-web\\SpacePython.Domain\\SpacePython.Domain.csproj",
         "projectName": "SpacePython.Domain",
-        "projectPath": "/Users/mac254/repos/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj",
-        "packagesPath": "/Users/mac254/.nuget/packages/",
-        "outputPath": "/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/",
+        "projectPath": "E:\\4630LabProject\\Space-python-web\\SpacePython.Domain\\SpacePython.Domain.csproj",
+        "packagesPath": "C:\\Users\\dcowe\\.nuget\\packages\\",
+        "outputPath": "E:\\4630LabProject\\Space-python-web\\SpacePython.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac254/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dcowe\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

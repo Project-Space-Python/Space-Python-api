@@ -5145,19 +5145,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/mac254/.nuget/packages/": {}
+    "C:\\Users\\dcowe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac254/repos/Space-Python-api/SpacePython.Api/SpacePython.Api.csproj",
+      "projectUniqueName": "E:\\4630LabProject\\Space-python-web\\spacepython.api\\SpacePython.Api.csproj",
       "projectName": "SpacePython.Api",
-      "projectPath": "/Users/mac254/repos/Space-Python-api/SpacePython.Api/SpacePython.Api.csproj",
-      "packagesPath": "/Users/mac254/.nuget/packages/",
-      "outputPath": "/Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/",
+      "projectPath": "E:\\4630LabProject\\Space-python-web\\spacepython.api\\SpacePython.Api.csproj",
+      "packagesPath": "C:\\Users\\dcowe\\.nuget\\packages\\",
+      "outputPath": "E:\\4630LabProject\\Space-python-web\\spacepython.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mac254/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\dcowe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -5169,11 +5169,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/mac254/repos/Space-Python-api/SpacePython.Data/SpacePython.Data.csproj": {
-              "projectPath": "/Users/mac254/repos/Space-Python-api/SpacePython.Data/SpacePython.Data.csproj"
+            "E:\\4630LabProject\\Space-python-web\\SpacePython.Data\\SpacePython.Data.csproj": {
+              "projectPath": "E:\\4630LabProject\\Space-python-web\\SpacePython.Data\\SpacePython.Data.csproj"
             },
-            "/Users/mac254/repos/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj": {
-              "projectPath": "/Users/mac254/repos/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj"
+            "E:\\4630LabProject\\Space-python-web\\SpacePython.Domain\\SpacePython.Domain.csproj": {
+              "projectPath": "E:\\4630LabProject\\Space-python-web\\SpacePython.Domain\\SpacePython.Domain.csproj"
             }
           }
         }
@@ -5242,7 +5242,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

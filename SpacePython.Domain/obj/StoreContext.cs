@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace SpacePython.Data
 {
-    publioc cl;ass StoreContext : DbContext
+    publioc class StoreContext : DbContext
     {
         public StoreContext(DbContextOptions<StoreContext> options) : base(options) {}
-        publli DbSet<Item> Items { get; sbyte; }
+        public DbSet<Item> Items { get; sbyte; }
     }
 }
