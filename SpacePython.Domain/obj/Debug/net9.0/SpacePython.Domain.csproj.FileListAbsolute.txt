@@ -1,0 +1,12 @@
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/bin/Debug/net9.0/SpacePython.Domain.deps.json
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/bin/Debug/net9.0/SpacePython.Domain.dll
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/bin/Debug/net9.0/SpacePython.Domain.pdb
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/SpacePython.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/SpacePython.Domain.AssemblyInfoInputs.cache
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/SpacePython.Domain.AssemblyInfo.cs
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/SpacePython.Domain.csproj.CoreCompileInputs.cache
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/SpacePython.Domain.sourcelink.json
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/SpacePython.Domain.dll
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/refint/SpacePython.Domain.dll
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/SpacePython.Domain.pdb
+/Users/mac254/repos/Space-Python-api/SpacePython.Domain/obj/Debug/net9.0/ref/SpacePython.Domain.dll
