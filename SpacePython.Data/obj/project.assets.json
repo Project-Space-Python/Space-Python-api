@@ -1113,19 +1113,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dcowe\\.nuget\\packages\\": {}
+    "/Users/mac254/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\4630LabProject\\space-python-web\\spacepython.data\\SpacePython.Data.csproj",
+      "projectUniqueName": "/Users/mac254/repos/Space-Python-api/SpacePython.Data/SpacePython.Data.csproj",
       "projectName": "SpacePython.Data",
-      "projectPath": "E:\\4630LabProject\\space-python-web\\spacepython.data\\SpacePython.Data.csproj",
-      "packagesPath": "C:\\Users\\dcowe\\.nuget\\packages\\",
-      "outputPath": "E:\\4630LabProject\\space-python-web\\spacepython.data\\obj\\",
+      "projectPath": "/Users/mac254/repos/Space-Python-api/SpacePython.Data/SpacePython.Data.csproj",
+      "packagesPath": "/Users/mac254/.nuget/packages/",
+      "outputPath": "/Users/mac254/repos/Space-Python-api/SpacePython.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dcowe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/mac254/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1176,7 +1176,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
