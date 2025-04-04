@@ -1,0 +1,6 @@
+E:\4630LabProject\space-python-web\SpacePython.Data\obj\Debug\net9.0\SpacePython.Data.csproj.AssemblyReference.cache
+E:\4630LabProject\space-python-web\SpacePython.Data\obj\Debug\net9.0\SpacePython.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\4630LabProject\space-python-web\SpacePython.Data\obj\Debug\net9.0\SpacePython.Data.AssemblyInfoInputs.cache
+E:\4630LabProject\space-python-web\SpacePython.Data\obj\Debug\net9.0\SpacePython.Data.AssemblyInfo.cs
+E:\4630LabProject\space-python-web\SpacePython.Data\obj\Debug\net9.0\SpacePython.Data.csproj.CoreCompileInputs.cache
+E:\4630LabProject\space-python-web\SpacePython.Data\obj\Debug\net9.0\SpacePython.Data.sourcelink.json

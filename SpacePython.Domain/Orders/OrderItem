@@ -1,0 +1,11 @@
+using SpacePython.Domain.CatalogController;
+
+namespace SpacePython.Domain.Orders
+{
+    public class OrderItem {
+        public int Id { get; set; }
+        public Item Item { get; set; }
+        public Int Quantity { get; set; }
+        public decimal Price => Items.Price * Quantity;
+    }
+}

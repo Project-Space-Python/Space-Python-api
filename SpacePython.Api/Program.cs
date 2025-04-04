@@ -1,7 +1,17 @@
+using SpacePython.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Sqlite;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // ✅ Register MVC controllers
 builder.Services.AddControllers();
+builder.Services.AddDbContext<StoreContext>(options => options.UseSqlite("Data Source=../Registrar.sqlite", b => b.MigrationsAssembly("SpacePython.API")));
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 // ✅ Register OpenAPI docs via minimal API style
 builder.Services.AddOpenApi();

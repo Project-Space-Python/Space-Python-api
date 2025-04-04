@@ -34,3 +34,6 @@
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.pdb
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/SpacePython.Api.genruntimeconfig.cache
 /Users/mac254/repos/Space-Python-api/SpacePython.Api/obj/Debug/net9.0/ref/SpacePython.Api.dll
+E:\4630LabProject\space-python-web\SpacePython.api\obj\Debug\net9.0\SpacePython.Api.dll
+E:\4630LabProject\space-python-web\SpacePython.api\obj\Debug\net9.0\refint\SpacePython.Api.dll
+E:\4630LabProject\space-python-web\SpacePython.api\obj\Debug\net9.0\SpacePython.Api.pdb
