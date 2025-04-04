@@ -1212,19 +1212,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/kelseychen/.nuget/packages/": {}
+    "C:\\Users\\ashto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Api/SpacePython.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Api\\SpacePython.Api.csproj",
       "projectName": "SpacePython.Api",
-      "projectPath": "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Api/SpacePython.Api.csproj",
-      "packagesPath": "/Users/kelseychen/.nuget/packages/",
-      "outputPath": "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Api/obj/",
+      "projectPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Api\\SpacePython.Api.csproj",
+      "packagesPath": "C:\\Users\\ashto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kelseychen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ashto\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1236,11 +1236,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Data/SpacePython.Data.csproj": {
-              "projectPath": "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Data/SpacePython.Data.csproj"
+            "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Data\\SpacePython.Data.csproj": {
+              "projectPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Data\\SpacePython.Data.csproj"
             },
-            "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj": {
-              "projectPath": "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj"
+            "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj": {
+              "projectPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj"
             }
           }
         }
@@ -1289,7 +1289,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

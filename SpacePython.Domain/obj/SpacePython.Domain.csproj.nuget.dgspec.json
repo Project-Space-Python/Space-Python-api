@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj": {}
+    "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj": {}
   },
   "projects": {
-    "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj": {
+    "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj",
         "projectName": "SpacePython.Domain",
-        "projectPath": "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Domain/SpacePython.Domain.csproj",
-        "packagesPath": "/Users/kelseychen/.nuget/packages/",
-        "outputPath": "/Users/kelseychen/ACCTMIS 4630/Space-Python-api-KC/Space-Python-api/SpacePython.Domain/obj/",
+        "projectPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj",
+        "packagesPath": "C:\\Users\\ashto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kelseychen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ashto\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
