@@ -1,15 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T/TaUcZzab4=",
+  "dgSpecHash": "YvGP8dLpIJ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "projectFilePath": "E:\\4630LabProject\\space-python-web\\spacepython.domain\\SpacePython.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcowe\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\dcowe\\.nuget\\packages\\coverlet.msbuild\\6.0.4\\coverlet.msbuild.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
 }

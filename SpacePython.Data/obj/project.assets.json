@@ -1113,19 +1113,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ashto\\.nuget\\packages\\": {}
+    "C:\\Users\\dcowe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Data\\SpacePython.Data.csproj",
+      "projectUniqueName": "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj",
       "projectName": "SpacePython.Data",
-      "projectPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Data\\SpacePython.Data.csproj",
-      "packagesPath": "C:\\Users\\ashto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Data\\obj\\",
+      "projectPath": "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj",
+      "packagesPath": "C:\\Users\\dcowe\\.nuget\\packages\\",
+      "outputPath": "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ashto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dcowe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1176,16 +1176,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Data\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -8107,19 +8107,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ashto\\.nuget\\packages\\": {}
+    "C:\\Users\\dcowe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Api\\SpacePython.Api.csproj",
+      "projectUniqueName": "E:\\4630LabProject\\space-python-web\\SpacePython.Api\\SpacePython.Api.csproj",
       "projectName": "SpacePython.Api",
-      "projectPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Api\\SpacePython.Api.csproj",
-      "packagesPath": "C:\\Users\\ashto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Api\\obj\\",
+      "projectPath": "E:\\4630LabProject\\space-python-web\\SpacePython.Api\\SpacePython.Api.csproj",
+      "packagesPath": "C:\\Users\\dcowe\\.nuget\\packages\\",
+      "outputPath": "E:\\4630LabProject\\space-python-web\\SpacePython.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ashto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dcowe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -8131,11 +8131,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Data\\SpacePython.Data.csproj": {
-              "projectPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Data\\SpacePython.Data.csproj"
+            "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj": {
+              "projectPath": "E:\\4630LabProject\\space-python-web\\SpacePython.Data\\SpacePython.Data.csproj"
             },
-            "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj": {
-              "projectPath": "C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Domain\\SpacePython.Domain.csproj"
+            "E:\\4630LabProject\\space-python-web\\SpacePython.Domain\\SpacePython.Domain.csproj": {
+              "projectPath": "E:\\4630LabProject\\space-python-web\\SpacePython.Domain\\SpacePython.Domain.csproj"
             }
           }
         }
@@ -8208,16 +8208,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ashto\\OneDrive\\Desktop\\Programming\\repos\\Space-Python-api\\SpacePython.Api\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
